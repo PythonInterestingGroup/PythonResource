@@ -21,7 +21,7 @@
 - 身体脂肪总重量(kg)= a - b
 - 体脂率(身体脂肪百分比) = (身体脂肪总重量 ÷ 体重) x 100%
 
-![001](/Users/wqrr/Desktop/sourcetree/python/PythonResource/Task/Task05_5.25/image/001.png)
+![001](./image/001.png)
 
 ##### 程序要求:
 
